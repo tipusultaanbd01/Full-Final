@@ -42,6 +42,31 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 group-title="-",Star Jalsha HD
+http://103.229.254.25:7001/play/a0c0/index.m3u8
+
+#EXTINF:-1 group-title="-",COLORS BANGLA
+http://103.229.254.25:7001/play/a076/index.m3u8
+
+#EXTINF:-1 group-title="-",Colors Bangla HD
+http://103.229.254.25:7001/play/a0ds/index.m3u8
+
+#EXTINF:-1 group-title="-",Jalsha Movies HD
+http://103.229.254.25:7001/play/a0dt/index.m3u8
+
+#EXTINF:-1 group-title="-",ZEE BANGLA CINEMA
+http://103.229.254.25:7001/play/a070/index.m3u8
+
+#EXTINF:-1 group-title="-",Zee Bangla HD
+http://103.229.254.25:7001/play/a0c3/index.m3u8
+
+#EXTINF:-1 ,Star Bangla
+http://103.229.254.25:7001/play/a0eo/index.m3u8
+
+#EXTINF:-1 group-title="-",AAKAASH BANGLA
+http://103.229.254.25:7001/play/a085/index.m3u8
+
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
@@ -335,36 +360,6 @@ http://103.229.254.25:7001/play/a0dr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",Nasa tv
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
-#http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
-#https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-http://103.182.170.32:8888/play/a046
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha SD
-http://103.229.254.25:7001/play/a075/index.m3u8
-
-#EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
-
-#EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies SD
-http://103.161.153.165:8000/play/a01e/index.m3u8
-
-#EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla HD
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-#http://tv.cloudcdn.me/live.ts?channelId=120&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#http://bd.ottbd.online:2082/live/rozario859/01327184859/24128.m3u8
-#https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-#http://103.175.242.10:8080/zeebangla/index.m3u8
-http://103.161.153.165:8000/play/zeebnhd/index.m3u8
-
-#EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla SD
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
-
-#EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Zee_Bangla_Cinema.jpeg/200px-Zee_Bangla_Cinema.jpeg" group-title="Indian-Bangla",Zee Bangla Cinema
-#http://103.182.170.32:8888/play/a044
-http://103.229.254.25:7001/play/a070/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla", Movies 
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
