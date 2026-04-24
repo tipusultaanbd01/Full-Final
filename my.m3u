@@ -10,29 +10,19 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/2494.ts
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/t-sports-hd.png",T Sports HD
-https://zibo-play-server-1.tvhunter.top/xdi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ptv-sports.png",PTV Sports
-https://zibo-play-cldserver.tvhunter.top/cld/46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="-",A SportsHD
+http://103.229.254.25:7001/play/a087/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/a-sports.png",A Sports
-https://zibo-play-cldserver.tvhunter.top/cld/45/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Sports 1 HD
+http://110.39.27.47:8001/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-selected-2.png",Star Sports Selected 2
-https://zibo-play-app4.tvhunter.top/124/index.m3u8
+#EXTINF:-1 ,Star Sports 1 Hindi
+http://110.39.27.47:8001/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-selected-1.png",Star Sports Selected 1
-https://zibo-play-app4.tvhunter.top/123/index.m3u8
+#EXTINF:-1 ,Star Sports 2 Hindi HD
+http://110.39.27.47:8001/play/a01m/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-3.png",Star Sports 3
-https://zibo-play-app6.tvhunter.top/mc/live14.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-2.png",Star Sports 2
-https://zibo-play-cldserver.tvhunter.top/cld/s2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-1.png",Star Sports 1
-https://zibo-play-app4.tvhunter.top/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
 
