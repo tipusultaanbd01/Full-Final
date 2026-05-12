@@ -91,9 +91,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpgK51Ff/Akash-Digital.png" group-title="Bangladesh*",Al Jazeera English
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-#EXTINF:-58 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="English News",BBC News
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-
 #EXTINF:-59 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="English News",CNN
 #http://tv.cloudcdn.me/live.ts?channelId=50&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -120,8 +117,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla Movies
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies" group-title="",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
