@@ -1,21 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports
 #https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
-#https://starsportshindiii.pages.dev/index.m3u8
-http://103.229.254.25:7001/play/a0dn/index.m3u8
-
-#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
-http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="SPORTS",Star Sports 3
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1080.ts
 
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
