@@ -125,6 +125,8 @@ https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg"group-title="BANGLA", Rajdhani tv
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="KhushbooBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png",Khushboo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8
 
 #EXTINF:-80 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC", Benguli Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
