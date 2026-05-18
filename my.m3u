@@ -3,6 +3,10 @@
 
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="sports",T SPORTS
 https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.m3u8?token=886fdb300f36674141cacbbb4cdb410783ff306e-9f8ed914f769fcd5ab577e3923a29dfa-1779148520-1779137720
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/73.png" group-title="sports",PTV SPOTRS
+https://edge2.roarzone.net:8447/roarzone/edge2/ptv-sports/index.m3u8?token=47fc013e6243c192883fced62edc4fe909b1b2bf-3d9a518fcc2516dbae42e3a423fd6fd1-1779148521-1779137721
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/add-sports-1.png" group-title="sports",ASPORTS
+https://edge2.roarzone.net:8447/roarzone/edge2/a-sports/index.m3u8?token=bcfbf087fe94277f43628a63df3be6d5d070d967-fb1bc3cf71792de0e123c0ac7ae91ddc-1779148520-1779137720
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
