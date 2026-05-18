@@ -1,16 +1,32 @@
 #EXTM3U
 
 
-#EXTINF:-127 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-1.png" group-title="SPORTS",Star Sports 1
-http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
-#EXTINF:-135 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/t-sports-hd.png" group-title="SPORTS",Tsports
-http://198.195.239.50:8095/Tsports/index.m3u8
-#EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
-http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
-#EXTINF:-136 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="SPORTS",Star Sports Select 2
-http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",MTR Sports-1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Eurosport1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_1_%28II%29.svg", Live | Eurosport 1 HD
+http://151.80.18.177:86/Eurosport%20HD/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="Eurosport2HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%2811%29.svg", Live | Eurosport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="LiveFootball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Football_pictogram.svg", Live | Football
+https://rmtv.akamaized.net/his/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="StarSports2HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png", Live | Star Sports 2 HD
+http://maxotts.maxdigitaltv.com/x-media/C250/master.r.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="CricketGold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/brw/Cricket-Gold-Channel_black.png", CR | Cricket Gold
+https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="FoxCricket501" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png", CR | Fox Cricket 501
+http://y3Tqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="FoxCricket501HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg", CR | Fox Cricket 501 HD
+http://idckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="StarSports1Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png", CR | Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="ASPOR" tvg-logo="https://i.ibb.co/x5jB51j/aspor.png", FB | A SPOR
+https://rnttwmjcin.turknet.ercdn.net/icpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
